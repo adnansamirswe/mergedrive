@@ -2,7 +2,7 @@
 
 A self-hosted storage gateway that pools multiple Google Drive accounts behind one clean REST API. Connect N drives, route uploads to whichever has space, and let your apps upload, list and download files with scoped API keys.
 
-**Live Demo:** [megadrive.bmgsl.com](https://megadrive.bmgsl.com)
+**Live Demo:** [mergedrive.bmgsl.com](https://mergedrive.bmgsl.com)
 
 ## Why
 
